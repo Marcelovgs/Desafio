@@ -1,4 +1,4 @@
-public interface HyugaUzumaki {
+interface HyugaUzumaki {
     void AtivarKarma();
     void AtivarJougan();
 }

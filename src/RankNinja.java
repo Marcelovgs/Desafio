@@ -1,6 +1,3 @@
-public enum RankNinja {
-    GENIN,
-    CHUUNIN,
-    JOUNNIN,
-    KAGE
+enum RankNinja {
+    GENIN, CHUUNIN, JOUNNIN, KAGE
 }
