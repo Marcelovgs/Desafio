@@ -1,4 +1,6 @@
-// Classe Uzumaki que herda de Ninja
+package NivelIntermediario;
+
+// Classe NivelIntermediario.Uzumaki que herda de NivelIntermediario.Ninja
 class Uzumaki extends Ninja {
     public Uzumaki(String nome, String aldeia, int idade)
     { super(nome, aldeia, idade); }
@@ -12,6 +14,6 @@ class Uzumaki extends Ninja {
 
     @Override
     public void habilidadeEspecial() {
-        System.out.println("Meu nome é " + nome + " e esse é meu ataque Uzumaki, um ataque de vento e eu sou nivel " + rank);
+        System.out.println("Meu nome é " + nome + " e esse é meu ataque NivelIntermediario.Uzumaki, um ataque de vento e eu sou nivel " + rank);
     }
 }

@@ -1,3 +1,5 @@
+package NivelIntermediario;
+
 // Classe base para todos os ninjas
 class Ninja {
     String nome;

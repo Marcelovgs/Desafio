@@ -1,4 +1,6 @@
-// Classe Hyuga que herda de Ninja
+package NivelIntermediario;
+
+// Classe NivelIntermediario.Hyuga que herda de NivelIntermediario.Ninja
 class Hyuga extends Ninja {
     public Hyuga(String nome, String aldeia, int idade)
     { super(nome, aldeia, idade); }

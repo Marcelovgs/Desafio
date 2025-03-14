@@ -1,4 +1,6 @@
-// Classe Uchiha que herda de ninja
+package NivelIntermediario;
+
+// Classe NivelIntermediario.Uchiha que herda de ninja
 class Uchiha extends Ninja {
     public Uchiha() { super(); }
     public Uchiha(String nome, String aldeia, int idade)
@@ -9,7 +11,7 @@ class Uchiha extends Ninja {
 
     @Override
     public void habilidadeEspecial() {
-        System.out.println("Meu nome é " + nome + " e esse é meu ataque Uchiha, um ataque de vento e eu sou nivel: " + rank);
+        System.out.println("Meu nome é " + nome + " e esse é meu ataque NivelIntermediario.Uchiha, um ataque de vento e eu sou nivel: " + rank);
     }
 }
 

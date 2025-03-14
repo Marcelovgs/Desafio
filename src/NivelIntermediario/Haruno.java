@@ -1,4 +1,6 @@
-// Classe Haruno que herda de Ninja
+package NivelIntermediario;
+
+// Classe NivelIntermediario.Haruno que herda de NivelIntermediario.Ninja
 class Haruno extends Ninja {
     public Haruno(String nome, String aldeia, int idade)
     { super(nome, aldeia, idade); }
