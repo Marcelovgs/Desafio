@@ -21,7 +21,7 @@ Este projeto demonstra conceitos avançados de **Programação Orientada a Objet
 
 ## 📂 Estrutura do Projeto
 ```
-📁 src/NivelIntermediario/POO
+📁 src/NivelIntermediario
  ├── NivelIntermediario.Main.java               # Classe principal que executa o código
  ├── NivelIntermediario.Ninja.java              # Classe base
  ├── NivelIntermediario.Uzumaki.java            # Herda de NivelIntermediario.Ninja e possui habilidades exclusivas
