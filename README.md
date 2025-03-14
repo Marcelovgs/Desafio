@@ -19,6 +19,9 @@ Este projeto demonstra conceitos avançados de **Programação Orientada a Objet
 
 ✔️ **Polimorfismo**: Uso de arrays de ninjas para chamar métodos de forma genérica, sem saber exatamente a classe do ninja em tempo de execução.
 
+✔️ **Métodos Abastratos**: habilidadeEspecial(): Obriga as subclasses a implementarem um ataque personalizado, garantindo que cada tipo de ninja tenha seu comportamento específico.
+
+
 ## 📂 Estrutura do Projeto
 ```
 📁 src/NivelIntermediario
