@@ -1,6 +1,7 @@
 package NivelIntermediario;
 
-interface HyugaUzumaki {
+// Interface HyugaUzumaki, que Boruto vai implementar
+public interface HyugaUzumaki {
     void AtivarKarma();
     void AtivarJougan();
 }
